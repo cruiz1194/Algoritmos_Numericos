@@ -6,7 +6,7 @@ El programa estuvo dividido en 3 lenguajes diferentes que contenían unos 3 o 4 
 
 Los algoritmos estarán codificados en estos 3 lenguajes (con algún cambio a futuro): **FORTRAN**, **C**, **Matlab**.
 
-Los progrmas serán sobre los siguientes algoritmos:
+Los programas serán sobre los siguientes algoritmos:
 1. Aproximación de raíces
   1. Bisecciones repetidas
   2. Regula Falsi
